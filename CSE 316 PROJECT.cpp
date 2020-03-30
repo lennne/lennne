@@ -1,8 +1,7 @@
 #include<stdio.h>
 #include<iostream>
 #include<stdlib.h>
-int no_of_processes,a_time[100],b_time[100],c_time[100],w_time[100],t_time[100],rb_time[100],tt_quantum=0,
-r_queue[100];
+int no_of_processes,a_time[100],b_time[100],c_time[100],w_time[100],t_time[100],rb_time[100],tt_quantum=0,r_queue[100];
 double avgt_time=0,avgw_time=0;
 int cu_time,t_process,pointer,t_quantum_1,t_quantum_2,t_quantum_itr,r_processes;
 int main()
