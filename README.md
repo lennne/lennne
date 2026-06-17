@@ -25,5 +25,5 @@ I have a passion for **software development**, from full-stack web apps to real-
 
 <div style="display: flex; gap: 10px;flex-direction:row flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=lennne&show_icons=true&theme=radical" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lennne&hide=jupyter%20notebook,html,css,blade&layout=compact&theme=radical&exclude_repo=Fuzzy-Logic-to-Diagnose-Malaria,Machine-Learning-Model-For-HTRU2-Dataset,Human-Pose-Estimation,Fuzzy-Logic-to-Diagnose-Malaria" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lennne&hide=python,jupyter%20notebook,blade&layout=compact&theme=radical&exclude_repo=Fuzzy-Logic-to-Diagnose-Malaria,Machine-Learning-Model-For-HTRU2-Dataset,Human-Pose-Estimation" width="49%">
 </div>
