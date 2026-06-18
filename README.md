@@ -18,7 +18,7 @@ I have a passion for **software development**, from full-stack web apps to real-
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-ed2e02?style=for-the-badge&logo=laravel&logoColor=white) | ![ReactQuery](https://img.shields.io/badge/React%20Query-20232A?style=for-the-badge&logo=reactquery&logoColor=white) | ![OpenShift](https://img.shields.io/badge/Openshift-20232A?style=for-the-badge&logo=redhatopenshift&logoColor=red) | ![Prisma](https://img.shields.io/badge/Prisma%20ORM-20232c?style=for-the-badge&logo=prisma&logoColor=white) |  | |
 | ![Swift](https://img.shields.io/badge/Swift-ed6928?style=for-the-badge&logo=swift&logoColor=white) |  | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |  |  ![Mongoose](https://img.shields.io/badge/Mongoose-20232c?style=for-the-badge&logo=mongoose&logoColor=white)  |  | |
 |  | ![Socket.io](https://img.shields.io/badge/Socket.Io-ffffff?style=for-the-badge&logo=socketdotio&logoColor=black) |  |  |  |  | |
-|  | | ![Nginx](https://img.shields.io/badge/Nginx-339933?style=for-the-badge&logo=nginx&logoColor=white) |  |  |  | |
+|  | ![Nginx](https://img.shields.io/badge/Nginx-339933?style=for-the-badge&logo=nginx&logoColor=white) |  |  |  |  | |
 
 ---
 
