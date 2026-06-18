@@ -1,4 +1,4 @@
-# About Me 🚀✨
+# About Me
 
 Hi, I'm Joseph 👋😄
 
@@ -6,9 +6,9 @@ I’m a software engineer who enjoys building full-stack apps, backend systems, 
 
 I enjoy collaborating with others, learning continuously, and building software that’s both useful and thoughtfully designed.
 
-I have a passion for **software development**, from full-stack web apps to real-time games  and backend services. I thrive in **collaborative environments** , love learning from others, and aim to deliver **innovative solutions** 💡.
+I have a passion for **software development**, from full-stack web apps to real-time games  and backend services. I thrive in **collaborative environments** , love learning from others, and aim to deliver **innovative solutions** .
 
- **Core Interests:** Full-stack development , backend architecture , real-time systems , cloud deployment , APIs , software optimization , Robotics, Internet-of-Things, Games, and problem-solving 🧩.
+ **Core Interests:** Full-stack development , backend architecture , real-time systems , cloud deployment , APIs , software optimization , Robotics, Internet-of-Things, Games, and problem-solving .
 
 ---
 
@@ -28,19 +28,19 @@ I have a passion for **software development**, from full-stack web apps to real-
 ---
 ## 📚 Currently Learning
 
-- ☁️ **Google - Associate Cloud Engineer - Certification (Ongoing)**  
+-  **Google - Associate Cloud Engineer - Certification (Ongoing)**  
   Building foundational cloud skills in GCP including IAM, networking, compute, storage, and scalable architecture design.
 
-- 🧠 **System Design & Distributed Systems**  
+-  **System Design & Distributed Systems**  
   Strengthening understanding of scalability, caching strategies, reliability patterns, and large-scale system architecture.
 
-- ⚙️ **Backend Engineering**  
+-  **Backend Engineering**  
   Improving design and implementation of robust Node.js backend systems with clean architecture and performance considerations.
 
-- 🤖 **AI-Powered Developer Tools**  
+-  **AI-Powered Developer Tools**  
   Exploring LLM integrations, CLI agents, and workflow automation using structured AI-driven systems.
 
-- 📓 **Knowledge Documentation (Obsidian)**  
+-  **Knowledge Documentation (Obsidian)**  
   Actively organizing all my engineering notes into a structured personal knowledge base.
 
 ---
