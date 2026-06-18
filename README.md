@@ -2,7 +2,11 @@
 
 Hi, I'm Joseph 👋😄
 
-I have a passion for **software development**, from full-stack web apps to real-time games  and backend services. I thrive in **collaborative environments** , love learning from others , and aim to deliver **innovative solutions** 💡.
+I’m a software engineer who enjoys building full-stack apps, backend systems, and real-time tools applications. I love turning ideas into working systems and exploring how things work under the hood—from APIs and databases to system design. I also document my learning in Obsidian, keeping track of ideas as I grow.
+
+I enjoy collaborating with others, learning continuously, and building software that’s both useful and thoughtfully designed.
+
+I have a passion for **software development**, from full-stack web apps to real-time games  and backend services. I thrive in **collaborative environments** , love learning from others, and aim to deliver **innovative solutions** 💡.
 
  **Core Interests:** Full-stack development , backend architecture , real-time systems , cloud deployment , APIs , software optimization , Robotics, Internet-of-Things, Games, and problem-solving 🧩.
 
