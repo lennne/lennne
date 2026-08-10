@@ -26,19 +26,19 @@ I have a passion for **software development**, from full-stack web apps to real-
 |  | ![Nginx](https://img.shields.io/badge/Nginx-339933?style=for-the-badge&logo=nginx&logoColor=white) |  |  |  |  | |
 
 ---
-## 📚 Currently Learning
+## Current Focus Areas
 
 -  **Google - Associate Cloud Engineer - Certification (Ongoing)**  
-  Building foundational cloud skills in GCP including IAM, networking, compute, storage, and scalable architecture design.
+  Cloud skills in GCP including IAM, networking, compute, storage, and scalable architecture design.
 
 -  **System Design & Distributed Systems**  
-  Strengthening understanding of scalability, caching strategies, reliability patterns, and large-scale system architecture.
+  Understanding of scalability, caching strategies, reliability patterns, and large-scale system architecture.
 
 -  **Backend Engineering**  
-  Improving design and implementation of robust Node.js backend systems with clean architecture and performance considerations.
+  Design and implementation of robust Node.js backend systems with clean architecture and performance considerations.
 
 -  **AI-Powered Developer Tools**  
-  Exploring LLM integrations, CLI agents, and workflow automation using structured AI-driven systems.
+  LLM integrations, CLI agents, and workflow automation using structured AI-driven systems.
 
 -  **Knowledge Documentation (Obsidian)**  
   Actively organizing all my engineering notes into a structured personal knowledge base.
