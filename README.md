@@ -23,25 +23,6 @@ I collaborate well with others, learn continuously, and build software that’s 
 |  | ![Socket.io](https://img.shields.io/badge/Socket.Io-ffffff?style=for-the-badge&logo=socketdotio&logoColor=black) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![OpenShift](https://img.shields.io/badge/Openshift-20232A?style=for-the-badge&logo=redhatopenshift&logoColor=red) |  |  | |
 |  | ![Nginx](https://img.shields.io/badge/Nginx-339933?style=for-the-badge&logo=nginx&logoColor=white) |  |  |  |  | |
 
----
-## Current Focus Areas
-
--  **Google - Associate Cloud Engineer - Certification (Ongoing)**  
-  Cloud skills in GCP including IAM, networking, compute, storage, and scalable architecture design.
-
--  **System Design & Distributed Systems**  
-  Understanding of scalability, caching strategies, reliability patterns, and large-scale system architecture.
-
--  **Backend Engineering**  
-  Design and implementation of robust Node.js backend systems with clean architecture and performance considerations.
-
--  **AI-Powered Developer Tools**  
-  LLM integrations, CLI agents, and workflow automation using structured AI-driven systems.
-
--  **Knowledge Documentation (Obsidian)**  
-  Actively organizing all my engineering notes into a structured personal knowledge base.
-
----
 
 ## 📊 GitHub Stats
 
