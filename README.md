@@ -2,11 +2,9 @@
 
 Hi, I'm Joseph 👋😄
 
-I build full-stack applications. I turn your ideas into working systems and explore how things work under the hood—from APIs and databases to system design. I also document my learning, keeping track of ideas.
+I build full-stack applications and turn your ideas into working systems. I also document my learning, keeping track of ideas.
 
 I collaborate well with others, learn continuously, and build software that’s both useful and well designed.
-
-I have a passion for combining **software development** and other related fields like real-time games, AI applications, Data Systems, Systems programming  and backend services. I love learning from , and aim to deliver **innovative solutions**.
 
  **Core Interests:** Full-stack development, backend architecture, real-time systems, cloud deployment, APIs, software optimization, Robotics, Internet-of-Things, Games, and problem-solving.
 
