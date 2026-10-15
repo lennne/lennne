@@ -1,5 +1,3 @@
-# About Me
-
 Hi, I'm Joseph 👋😄
 
 I build full-stack applications and turn your ideas into working systems. I also document my learning, keeping track of ideas.
