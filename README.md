@@ -1,6 +1,6 @@
 Hi, I'm Joseph 👋😄
 
-I build full-stack applications and turn your ideas into working systems. I also document my learning, keeping track of ideas.
+I build full-stack applications, turning your ideas into working systems. I also document my learning and keeping track of ideas in obsidian.
 
  **Core Interests:** Full-stack development, backend architecture, real-time systems, cloud deployment, APIs, software optimization, Robotics, Internet-of-Things, Games, and problem-solving.
 
